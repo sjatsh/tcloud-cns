@@ -1,3 +1,3 @@
-module github.com/sjatsh/tcloud_cns
+module github.com/sjatsh/tcloud-cns
 
 go 1.12

@@ -1,4 +1,4 @@
-package tcloud_cns
+package cns
 
 import (
 	"net/url"

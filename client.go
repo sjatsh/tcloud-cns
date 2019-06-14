@@ -1,4 +1,4 @@
-package tcloud_cns
+package cns
 
 //云解析API请求的客户端
 type Client struct {
